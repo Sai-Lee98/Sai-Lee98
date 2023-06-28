@@ -1,6 +1,6 @@
-### Hi there 👋
-### ITS SAI'S GITHUB
-### CURRENTLY STUDYING ALGORITHM/SERVER
+### 
+### 
+### WORKING ON ALGORITHM/SERVER
 
 <!--
 **Sai-Lee98/Sai-Lee98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
